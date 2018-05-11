@@ -1,0 +1,181 @@
+.parents{
+		background: url("images/parents.jpg");
+		background-size: cover;
+		text-align: center; 
+		font-family: Times new roman ;
+		cursor: url('images/cursor.png'), auto;
+}
+		
+		
+.shelterbody{
+		background: url("images/homeless.jpg");
+		background-size: cover;
+		text-align: center;
+	    cursor: url('images/cursor.png'), auto;
+}
+ 
+ .waterbody{
+		background: url("images/water.jpg");
+		background-size: cover;
+		text-align: center;
+	    cursor: url('images/cursor.png'), auto;
+}
+ 
+ .givebody{
+		background: url("images/grey.jpg");
+		background-size: cover;
+		text-align: center;
+	    cursor: url('images/cursor.png'), auto;
+}
+ 
+
+
+.indexbody{
+	background: url("images/sky.jpg");
+	background-size:cover;
+	background-position: fixed;
+	text-align: center;
+	}
+	
+
+	p {
+		margin-left: 20vw;
+		margin-right: 20vw;
+		line-height: 1.5;
+	}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
+.grid {
+	border: 2px black solid;
+	width: cover; 
+	height: cover;
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-template-row: 50% 50% 50%;
+	grid-gap: 2vh;
+}
+
+.box {
+	background-color: blue;
+	color: blue;
+	border-radius: 10px;
+	border: 2x blue solid;
+}
+
+
+.box1 { 
+background-color: white;
+grid-colum-start:2;
+grid-colum-end: span 1;
+grid-row-start:1; 
+grid-row-end:span 1;
+}
+
+.box2 { 
+background-color: white;
+grid-colum-start:3;
+grid-colum-end: span 1;
+grid-row-start:1; 
+grid-row-end:span 1;
+}
+
+
+.box3 { 
+background-color: white;
+grid-colum-start:2;
+grid-colum-end: span 1;
+grid-row-start:2; 
+grid-row-end:span 1;
+}
+
+
+
+.box4 { 
+background-color: white;
+grid-colum-start:3;
+grid-colum-end: span 1;
+grid-row-start:2; 
+grid-row-end:span 1;
+}
+
+
+.box5 { 
+background-color: white;
+grid-colum-start:2;
+grid-colum-end: span 1;
+grid-row-start:3; 
+grid-row-end:span 1;
+}
+
+
+.box6 { 
+background-color: white;
+grid-colum-start:3;
+grid-colum-end: span 1;
+grid-row-start:3; 
+grid-row-end:span 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
