@@ -1,5 +1,5 @@
-.parents{
-		background: url("images/parents.jpg");
+.parentsbody{
+		background: url("images/sky.jpg");
 		background-size: cover;
 		text-align: center; 
 		font-family: Times new roman ;
@@ -142,11 +142,23 @@ grid-row-start:3;
 grid-row-end:span 1;
 }
 
+.box7
+grid-colum-start:1;
+grid-colum-end: span 1;
+}
 
-
-
-
-
+.box8
+grid-colum-start:2;
+grid-colum-end: span 1;
+}
+.box9
+grid-colum-start:3;
+grid-colum-end: span 1;
+}
+.box10
+grid-colum-start:4;
+grid-colum-end: span 1;
+}
 
 
 
